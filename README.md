@@ -3,6 +3,7 @@ Text Editor written in DroidJs
 - Simple Text editor
 - Save
 - Load
+- Type
 
 Implemented Soon
 - Color Pick
