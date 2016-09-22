@@ -1,5 +1,5 @@
-# DroidJs
-Text Editor written in DroidJs
+# DroidNote
+Text Editor written in DroidScript
 - Simple Text editor
 - Save
 - Load
