@@ -4,9 +4,9 @@ Text Editor written in DroidScript
 - Save
 - Load
 - Type
+- Color Pick
 
 Implemented Soon
-- Color Pick
 - Print
 - Font Type
 - Font Size
